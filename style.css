@@ -1,0 +1,74 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  background-color: #8FB339;
+  color: #4B5842;
+  margin: 0;
+  padding-bottom: 10em;
+}
+
+#selectors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1 {
+  color: #DADDD8;
+  font-size: 60px;
+}
+
+.catagory, .checkbox .optDiv {
+  margin: 1em;
+  padding: 0.5em 1em;
+}
+
+.catagory {
+  background-color: #B7CE63;
+  border-radius: 1em;
+}
+
+.optDiv {
+  background-color: #C7D59F;
+  border-radius: 1em;
+  padding: 0.5em 1em;
+}
+
+.modDiv {
+  margin: 1em;
+  background-color: #DADDD8;
+  border-radius: 1em;
+  padding: 0.5em 1em;
+}
+
+.options {
+  width: 80%;
+}
+
+.mods {
+  width: 60%;
+  display: block;
+  margin: auto;
+}
+
+button, select {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #DADDD8;
+  color: #4B5842;
+  font-weight: bold;
+  padding: 0.25em 0.5em;
+  border-radius: 1em;
+  margin: 0.5em;
+  cursor: pointer;
+}
+
+textarea {
+  width: 80%;
+  height: 5em;
+  margin: auto;
+  background-color: #C7D59F;
+  border-radius: 1em;
+  padding: 0.5em 1em;
+  font-size: large;
+  resize: vertical;
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "number",
+    "type": "radio",
+    "desc": "",
+    "options": [
+      { "tag": "", "desc": "" },
+      { "tag": "", "desc": "" }
+    ],
+    "mods": [
+      { "tag": "", "desc": "" },
+      { "tag": "", "desc": "" }
+    ],
+    "format": "tag "
+  },
+  {
+    "name": "number",
+    "type": "radio",
+    "desc": "",
+    "options": [
+      { "tag": "---!", "desc": "" },
+      { "tag": "---", "desc": "" },
+      { "tag": "--", "desc": "" },
+      { "tag": "-", "desc": "" },
+      { "tag": "", "desc": "" },
+      { "tag": "+", "desc": "" },
+      { "tag": "++", "desc": "" },
+      { "tag": "+++", "desc": "" },
+      { "tag": "+++!", "desc": "" },
+      { "tag": "+++!!", "desc": "" }
+    ],
+    "format": "tag "
+  }
+]
